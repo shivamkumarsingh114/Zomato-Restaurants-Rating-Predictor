@@ -1,0 +1,42 @@
+Name,Cost,Cuisine,Featured_in,Hours,Votes,Rating,Location,Type,View_menu,Book_table,Outlets,Delivery,Call
+Ice Cream Buggy,100,1, ,"Closed (Mon),5pm – 11pm (Tue-Sun)",20,3.1,HSR,1,1,0, ,0,1
+OPUS Club,1900,4,2,"Closed (Mon),5pm – 12:30AM (Tue-Thu),5pm – 1am...",1265,4.5,"OPUS, Sarjapur Road",1,1,1, ,1,1
+Mavalli Tiffin Room (MTR),250,1,3,"Closed (Mon),6:30am – 11am, 12:30pm – 9pm (Tue-Sun)",2777,4.5,Basavanagudi,1,1,0,8,0,1
+Aithals Mithra Koota,100,1, ,"Closed (Mon),6:30am – 12:30pm, 4pm – 9pm (Tue-Sun)",10,3.4,Banashankari,1,1,0, ,0,1
+Hotel Janatha,150,1, ,"Closed (Mon),6:30am – 12noon, 3pm – 7pm (Tue-Sun)",50,4.1,Basavanagudi,1,1,0, ,0,1
+BBCUE - Vivanta By Taj,2400,1, ,"Closed (Mon),6:30pm – 10:30pm (Tue-Sun)",7,3.4,"Vivanta By Taj, Whitefield",1,1,0, ,0,1
+The Midnight Kitchen,250,2, ,"Closed (Mon),6:30pm – 3:30am (Tue-Sun)",72,3.8,Koramangala 8th Block, ,1,1, ,0,1
+Chumma Delicious,200,2, ,"Closed (Mon),6am – 10:30pm (Tue-Sun)",229,3.7,Banashankari,1,1,1, ,0,1
+Sri Annapoorna Coffee Corner,100,1, ,"Closed (Mon),6am – 10pm (Tue-Sun)",4,3.3,Magadi Road,1,0,0, ,0,1
+Mahalakshmi Refreshments,200,1, ,"Closed (Mon),6am – 8pm (Tue-Sun)",19,3.7,Rajajinagar,1,0,0, ,0,1
+Eating Love,600,6, ,"Closed (Mon),6pm – 10:30pm (Tue),12noon – 3pm...",125,4.2,Sarjapur Road,1,1,1, ,0,1
+Karigiri Refreshments,300,1, ,"Closed (Mon),7:15am – 9:15pm (Tue-Sun)",8,3.7,Rajajinagar,1,0,0, ,0,0
+Ranganna Military Hotel,250,1, ,"Closed (Mon),7:30am – 4pm, 7pm – 10pm (Tue-Sun)",652,4.2,Jayanagar,1,1,0, ,1,1
+Namma Kudla,350,2, ,"Closed (Mon),7:30am – 9:30pm (Tue-Sun)",51,4.1,Malleshwaram,1,1,0, ,0,1
+Sitara Veg Restaurant,300,3, ,"Closed (Mon),7:30pm – 10:30pm (Tue),7:30am –...",387,3.7,Electronic City,1,1,1, ,0,1
+Grasshopper,5000,1,2,"Closed (Mon),7:30pm – 11:30pm (Tue-Sat),12:30pm...",638,4.3,Bannerghatta Road,1,1,0, ,0,1
+This Cafe Has No Name Cafe,500,8, ,"Closed (Mon),7am – 10pm (Tue-Sun)",43,3.6,Electronic City, ,1,1, ,0,1
+Hotel Aditya,300,1, ,"Closed (Mon),7am – 11am, 12:30pm – 4pm, 7pm –...",253,4.3,Rajajinagar,1,1,0, ,0,1
+Sri Maruthi Miltry Hotel,300,1, ,"Closed (Mon),7am – 11pm (Tue-Sun)",65,3.6,Rajajinagar,1,1,1, ,0,1
+Davanagere Benne Dose,100,1, ,"Closed (Mon),7am – 12noon, 4:30pm – 8pm (Tue-Sun)",72,4.1,Rajarajeshwari Nagar,1,1,0, ,0,1
+By 2 Coffee,100,1,1,"Closed (Mon),7am – 12noon, 4pm – 9:30pm (Tue-Sun)",303,4.3,Basavanagudi,1,1,1,6,0,1
+Gowdru Miltry Hotel,400,1, ,"Closed (Mon),7am – 4pm, 6pm – 11:45pm (Tue-Sun)",66,3.6,Nagarbhavi, ,1,1, ,0,1
+Halli Jonne Biriyani,450,2, ,"Closed (Mon),7am – 4pm, 7pm – 10pm (Tue-Sat),7am...",284,4.2,Jayanagar,2,1,0, ,0,1
+Falcon Greens - Prestige Golfshire,1400,4, ,"Closed (Mon),7am – 9:30pm (Tue-Fri),7am –...",84,4.2,International Airport,1,1,1, ,0,1
+Huko Mukho Hangla,450,2, ,"Closed (Mon),8:30am – 10:30pm (Tue-Sun)",155,4,Kammanahalli,1,1,1, ,0,0
+Shivaji Military Hotel,300,2,1,"Closed (Mon),8:30am – 3pm (Tue-Sun)",2212,4.3,Jayanagar,1,1,0, ,0,1
+The Hole in the Wall Cafe,600,2,2,"Closed (Mon),8:30am – 3pm, 5:30pm – 8:30pm...",6831,4.6,Koramangala 4th Block,1,1,0, ,1,1
+Pancuzzi,400,4, ,"Closed (Mon),8:30am – 8:30pm (Tue-Sun)",154,4.2,JP Nagar,1,1,1, ,0,1
+Dhyaana,600,6, ,"Closed (Mon),8am – 10pm (Tue-Sat),9am – 10pm (Sun)",131,4.3,Indiranagar,1,1,1, ,0,1
+Sri Maruthi Nati Style,100,1, ,"Closed (Mon),8am – 10pm (Tue-Sun)",9,3.5,Vijay Nagar,2,1,0, ,0,1
+Appam Corner,300,2, ,"Closed (Mon),8am – 11am, 6:30pm – 9:30pm (Tue-Sun)",45,4.1,Kalyan Nagar,1,1,0, ,0,1
+Egg Star,300,2, ,"Closed (Mon),8am – 11pm (Tue-Sun)",19,3.6,HSR,1,1,1, ,0,1
+Sri Maruthi Hotel,300,1, ,"Closed (Mon),8am – 4:30pm, 6:30pm – 11pm (Tue-Sun)",53,3.9,Basaveshwara Nagar,1,1,0, ,1,1
+Gowdara Mudde Mane,200,1, ,"Closed (Mon),8am – 4:30pm, 7pm – 11pm (Tue-Sun)",85,3.8,Kanakapura Road,1,1,0, ,0,1
+Cheta's Kitchen,350,1, ,"Closed (Mon),8am – 9pm (Tue, Wed, Thu, Sat, Sun)...",75,3.9,Yelahanka,1,1,1, ,0,1
+Fitnest,350,2, ,"Closed (Mon),9:30am – 10:30pm (Tue-Sun)",16,3.2,BTM, ,1,1, ,0,1
+29 Degrees North,250,3, ,"Closed (Mon),9:30am – 10pm (Tue-Sun)",271,3.9,Banaswadi,1,1,1, ,0,1
+Cafe On The Way,500,1, ,"Closed (Mon),9:30am – 2pm, 6pm – 9:30pm (Tue-Sun)",270,4,Koramangala 3rd Block,1,1,0, ,0,1
+RawStraw,700,3, ,"Closed (Mon),9am – 10:30pm (Tue-Sun)",164,4.1,Kalyan Nagar,1,1,1, ,0,1
+Zoey's,600,3, ,"Closed (Mon),9am – 10pm (Tue-Fri),8am – 10pm...",829,4.3,Sarjapur Road,1,1,1, ,0,1
+Chick Inn,450,1, ,"Closed (Mon),9am – 10pm (Tue-Sun)",92,3.7,Rajajinagar,1,1,1,1,0,1
